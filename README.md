@@ -1,4 +1,4 @@
-# vocabulary.com-bot
+# vocabulary.com-script
 A script that solves your vocabulary.com assignments for you. 
 
 Prerequisites: -Selenium Python Module 
